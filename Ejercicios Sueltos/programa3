@@ -1,0 +1,5 @@
+suma = 0
+for t in range (10):
+    num = int(input("ingrese un número entero"))
+    suma = suma + num
+print(suma)
